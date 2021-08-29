@@ -31,8 +31,8 @@
 <br/><br/>
   
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheDitis&" alt="TheDitis" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheDitis&show_icons=true&locale=en&layout=compact" alt="TheDitis" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=TheDitis&theme=blueberry&fire=B1DD42" alt="TheDitis" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheDitis&show_icons=true&locale=en&layout=compact&langs_count=8&theme=blueberry" alt="TheDitis" />
 </p>
 
 
