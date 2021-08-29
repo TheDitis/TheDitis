@@ -16,9 +16,10 @@
 - 📫 How to reach me **ryanscottmckay@gmail.com**
 
 - ⚡ Fun fact **I play the :saxophone:!**
-<br/><br/>
 
-<h3 align="left">Connect with me:</h3>
+<br/>
+
+<h4 align="left">Connect with me:</h4>
 <a href="https://www.linkedin.com/in/theditis/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <br/><br/>
 
@@ -29,9 +30,10 @@
 
 <br/><br/>
   
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheDitis&show_icons=true&locale=en&layout=compact" alt="TheDitis" /></p>
-
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TheDitis&" alt="TheDitis" /></p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheDitis&" alt="TheDitis" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheDitis&show_icons=true&locale=en&layout=compact" alt="TheDitis" />
+</p>
 
 
 <!--
