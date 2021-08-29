@@ -32,7 +32,7 @@
   
 <p align="left">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=TheDitis&theme=blueberry&hide_border=true&fire=B1DD42" alt="TheDitis" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheDitis&show_icons=true&locale=en&layout=compact&langs_count=8&theme=blueberry&hide_border=true" alt="TheDitis" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheDitis&show_icons=true&locale=en&layout=compact&langs_count=8&theme=blueberry&hide_border=true&exclude_repo=PoolPredictor,OnRecord,python_glview,consumer_complaints,TurtleFun" alt="TheDitis" />
 </p>
 
 
