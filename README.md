@@ -7,7 +7,9 @@
 
 <br/>
 
-- 🔭 I’m currently working on [**ThetaPad**](https://github.com/TheDitis/ThetaPad) & **Finding a Job**
+- 🛠️ I’m currently working on [**ThetaPad**](https://github.com/TheDitis/ThetaPad)
+
+- 🔭 Looking to find a **collaborative work environment**
 
 - 🌱 I’m currently learning [**Tauri**](https://tauri.studio/en/) & **CI**
 
