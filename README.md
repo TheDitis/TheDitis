@@ -15,6 +15,8 @@
 
 - 💬 Ask me about **Svelte!**
 
+- 💻 My favorite languages are **TypeScript** & **Rust**
+
 - 📫 How to reach me **ryanscottmckay@gmail.com**
 
 - ⚡ Fun fact **I play the :saxophone:!**
