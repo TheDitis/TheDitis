@@ -1,7 +1,7 @@
 <h2 align="center">
   Hi, I'm Ryan 👋
 </h2>
-<h3 align="center">Your friendly neighborhood software developer</h3>
+<h3 align="center">Your friendly neighborhood software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theditis&label=Profile%20views&color=0e75b6&style=flat" alt="theditis" /> </p>
 
