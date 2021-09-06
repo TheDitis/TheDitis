@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **ryanscottmckay@gmail.com**
 
-- ⚡ Fun fact **I play the :saxophone:!**
+- ⚡ Fun fact **I play :saxophone:, 🎹, & 🎸!**
 
 <br/>
 
