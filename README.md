@@ -9,8 +9,6 @@
 
 - 🛠️ I’m currently working on [**ThetaPad**](https://github.com/TheDitis/ThetaPad)
 
-- 🔭 I'm looking to find a **collaborative work environment**
-
 - 🌱 I’m currently learning [**Tauri**](https://tauri.studio/en/) & **CI**
 
 - 💬 Ask me about **Svelte!**
