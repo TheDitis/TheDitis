@@ -7,7 +7,7 @@
 
 <br/>
 
-- 🛠️ I’m currently working on [**ThetaPad**](https://github.com/TheDitis/ThetaPad)
+- 🛠️ I’m currently working with [**Finder**](https://www.finder.com)
 
 - 🌱 I’m currently learning [**Tauri**](https://tauri.studio/en/) & **CI**
 
