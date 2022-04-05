@@ -17,7 +17,7 @@
       </li>
       <li><p>💬 Ask me about <strong>Svelte!</strong></p>
       </li>
-      <li><p>💻 My favorite languages are <strong>TypeScript</strong> &amp; <strong>Rust</strong></p>
+      <li><p>💻 My favorite languages are <strong>Rust</strong> &amp; <strong>TypeScript</strong></p>
       </li>
       <li><p>📫 How to reach me <strong>ryanscottmckay@gmail.com</strong></p>
       </li>
