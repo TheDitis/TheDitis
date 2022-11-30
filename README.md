@@ -29,7 +29,6 @@
       
   </div>
   
-  
 <p></p><h4 align="left">Connect with me:</h4>
 <a href="https://www.linkedin.com/in/theditis/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
 <br><br><p></p>
