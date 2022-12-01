@@ -13,7 +13,7 @@
       <ul>
       <li><p>🛠️ I’m currently working with <a href="https://www.finder.com"><strong>Finder</strong></a></p>
       </li>
-      <li><p>🌱 I’m currently learning <a href="https://tauri.studio/en/"><strong>Tauri</strong></a>, <a href="https://github.com/glowcoil/clap-sys"><strong>CLAP</strong></a>, &amp; <strong>CI</strong></p>
+      <li><p>🌱 I’m currently learning <a href="https://github.com/glowcoil/clap-sys"><strong>CLAP</strong></a>, <strong>DSP</strong>, &amp; <strong>CI</strong></p>
       </li>
       <li><p>💬 Ask me about <strong>Svelte!</strong></p>
       </li>
