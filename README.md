@@ -21,7 +21,7 @@
       </li>
       <li><p>📫 How to reach me <strong>ryanscottmckay@gmail.com</strong></p>
       </li>
-      <li><p>⚡ Fun fact <strong>I play :saxophone:,  🎹, 🥁,  &amp;  🎸!</strong></p>
+      <li><p>⚡ Fun fact <strong>I play :saxophone:,  🎹, 🥁,  🎸, & 💻!</strong></p>
       </li>
       </ul>
       <p><br></p>
