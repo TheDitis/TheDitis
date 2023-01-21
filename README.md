@@ -63,7 +63,7 @@
 <p><br><br></p>
 <p align="left">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=TheDitis&amp;theme=blueberry&amp;hide_border=true&amp;fire=B1DD42" alt="TheDitis">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheDitis&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;langs_count=8&amp;theme=blueberry&amp;hide_border=true&amp;exclude_repo=PoolPredictor,OnRecord,python_glview,consumer_complaints,TurtleFun" alt="TheDitis">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=TheDitis&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;langs_count=8&amp;theme=blueberry&amp;hide_border=true&amp;exclude_repo=PoolPredictor,OnRecord,python_glview,consumer_complaints,TurtleFun" alt="TheDitis">
 </p>
 
 
