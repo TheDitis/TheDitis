@@ -11,7 +11,7 @@
     <span>
       <p><br></p>
       <ul>
-      <li><p>🛠️ I’m currently working with <a href="https://www.finder.com"><strong>Finder</strong></a></p>
+      <li><p>🛠️ I’m currently working on <a href="https://github.com/TheDitis/Spirogen"><strong>Spirogen</strong></a> V2</p>
       </li>
       <li><p>🌱 I’m currently learning <a href="https://github.com/glowcoil/clap-sys"><strong>CLAP</strong></a>, <strong>DSP</strong>, &amp; <strong>VST</strong></p>
       </li>
