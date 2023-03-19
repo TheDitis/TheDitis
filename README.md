@@ -4,7 +4,7 @@
 </h2><p></p>
 <h3 align="center">Your friendly neighborhood software engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theditis&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="theditis"> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=theditis&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="theditis"> </p> -->
 
   <div>
     <ahref="https://app.daily.dev/TheDitis"><img float="right" align="right" src="https://api.daily.dev/devcards/793ea81b1c514235bb5f559bc0472c05.png?r=kzf" width="400" alt="Ryan McKay's Dev Card"/></a>
