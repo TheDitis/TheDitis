@@ -13,7 +13,7 @@
       <ul>
       <li><p>🛠️ I’m currently working on <a href="https://github.com/TheDitis/Spirogen"><strong>Spirogen</strong></a> V2</p>
       </li>
-      <li><p>🌱 I’m currently learning <a href="https://github.com/glowcoil/clap-sys"><strong>CLAP</strong></a>, <strong>DSP</strong>, &amp; <strong>VST</strong></p>
+      <li><p>🌱 I’m currently learning GLSL
       </li>
       <li><p>💬 Ask me about <strong>Svelte!</strong></p>
       </li>
