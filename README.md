@@ -11,7 +11,7 @@
     <span>
       <p><br></p>
       <ul>
-      <li><p>🛠️ I’m currently working on <a href="https://github.com/TheDitis/Spirogen"><strong>Spirogen</strong></a> V2</p>
+      <li><p>🛠️ I’m currently working on <a href="https://github.com/TheDitis/Spirogen"><strong>Spirogen</strong></a> V2 and <strong>AutoDrum</strong> (coming soon)</p>
       </li>
       <li><p>🌱 I’m currently learning GLSL
       </li>
