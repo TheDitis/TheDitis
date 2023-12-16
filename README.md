@@ -13,7 +13,7 @@
       <ul>
       <li><p>🛠️ I’m currently working on <a href="https://github.com/TheDitis/Spirogen"><strong>Spirogen</strong></a> V2 and <strong>AutoDrum</strong> (coming soon)</p>
       </li>
-      <li><p>🌱 I’m currently learning GLSL
+      <li><p>🌱 I’m currently learning BlueZ and Bluetooth Protocols
       </li>
       <li><p>💬 Ask me about <strong>Svelte!</strong></p>
       </li>
