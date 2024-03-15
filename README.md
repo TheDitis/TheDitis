@@ -2,7 +2,8 @@
 <div class="markdown-container ltr"><div class="markdown-content"><p></p><h2 align="center">
   Hi, I'm Ryan 👋
 </h2><p></p>
-<h3 align="center">Your friendly neighborhood software engineer</h3>
+<!-- <h3 align="center">Your friendly neighborhood software engineer</h3> -->
+<h3 align="center">Very serious engineer guy</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=theditis&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="theditis"> </p> -->
 
