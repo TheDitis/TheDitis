@@ -63,7 +63,7 @@
 
 <p><br><br></p>
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=TheDitis&theme=tokyonight" alt="GitHub Streak" />
+<!--   <img src="https://streak-stats.demolab.com?user=TheDitis&theme=tokyonight" alt="GitHub Streak" /> -->
   <img src="https://readme-stats.jonas-bernard.dev/api/top-langs?username=TheDitis&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;langs_count=8&amp;theme=blueberry&amp;hide_border=true&amp;exclude_repo=PoolPredictor,OnRecord,python_glview,consumer_complaints,TurtleFun" alt="TheDitis">
 </p>
 
