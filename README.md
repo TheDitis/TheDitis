@@ -12,11 +12,11 @@
     <span>
       <p><br></p>
       <ul>
-      <li><p>🛠️ I’m currently working on <a href="https://github.com/TheDitis/Spirogen"><strong>Spirogen</strong></a> V2 and <strong>AutoDrum</strong> (coming soon)</p>
+      <li><p>🛠️ I’m currently working at <a href="https://hellotonic.com/">Tonic</a> <img src="https://hellotonic.com/images/logo.png" width="15" alt="tonic logo"/></p> 
       </li>
-      <li><p>🌱 I’m currently learning BlueZ and Bluetooth Protocols
+      <li><p>🌱 I’m currently learning Game Development in Unity
       </li>
-      <li><p>💬 Ask me about <strong>Svelte!</strong></p>
+      <li><p>💬 Ask me about <strong>Svelte</strong> or <strong>Rust</strong></p>
       </li>
       <li><p>💻 My favorite languages are <strong>Rust</strong>, <strong>TypeScript</strong>, &amp; <strong>Python</strong></p>
       </li>
@@ -34,7 +34,7 @@
 <a href="https://www.linkedin.com/in/theditis/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
 <br><br><p></p>
 <!-- SKILLS -->
-<p></p><h3 align="left">Languages and Tools:</h3><p></p>
+<!-- <p></p><h3 align="left">Languages and Tools:</h3><p></p>
 <p align="left"> 
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"> </a>
@@ -58,10 +58,10 @@
     <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"> </a>
     <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"> </a>
     <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"> </a>
- </p>
+ </p> -->
 
 
-<p><br><br></p>
+<p><br></p>
 <p align="left">
 <!--   <img src="https://streak-stats.demolab.com?user=TheDitis&theme=tokyonight" alt="GitHub Streak" /> -->
   <img src="https://readme-stats.jonas-bernard.dev/api/top-langs?username=TheDitis&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;langs_count=8&amp;theme=blueberry&amp;hide_border=true&amp;exclude_repo=PoolPredictor,OnRecord,python_glview,consumer_complaints,TurtleFun" alt="TheDitis">
