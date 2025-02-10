@@ -3,7 +3,7 @@
   Hi, I'm Ryan 👋
 </h2><p></p>
 <!-- <h3 align="center">Your friendly neighborhood software engineer</h3> -->
-<h3 align="center">Very serious engineer guy</h3>
+<h3 align="center">Very serious engineer</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=theditis&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="theditis"> </p> -->
 
@@ -12,7 +12,9 @@
     <span>
       <p><br></p>
       <ul>
-      <li><p>🛠️ I’m currently working at <a href="https://hellotonic.com/">Tonic</a> <img src="https://hellotonic.com/images/logo.png" width="15" alt="tonic logo"/></p> 
+      <li><p>🛠💼 I’m currently working at <a href="https://hellotonic.com/">Tonic</a> <img src="https://hellotonic.com/images/logo.png" width="15" alt="tonic logo"/></p> 
+      </li>
+      <li><p>🛠️ My current project is LangFu, a Svelte app that uses word-relationship APIs & voice recognition to train verbal agility.</p> 
       </li>
       <li><p>🌱 I’m currently learning Game Development in Unity
       </li>
